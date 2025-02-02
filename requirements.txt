@@ -1,0 +1,10 @@
+openai
+python-dotenv
+pdfplumber
+langchain
+langchain_text_splitters
+langchain_community
+qdrant-client
+streamlit
+langchain_qdrant
+sentence-transformers
